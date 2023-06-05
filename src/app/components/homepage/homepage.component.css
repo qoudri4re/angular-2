@@ -1,0 +1,19 @@
+.container {
+  height: 100%;
+}
+.header {
+  background: linear-gradient(145deg, #0d47a1, #1976d2);
+  height: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  letter-spacing: 1px;
+  color: #fff;
+}
+.body {
+  height: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5%;
+}
